@@ -1,0 +1,6 @@
+# -*- coding:utf-8 -*-
+
+lst = list(range(1, 10))
+
+for i in range(4, 7):
+    print(lst[i])

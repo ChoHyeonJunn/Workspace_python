@@ -1,0 +1,4 @@
+1586860109430	Rename resource 'root-context.xml'
+1586860112031	Move 'applicationContext.xml' to 'appServlet'
+1586860579834	Rename package 'com.mvc.mongo.model.dao'
+1586860670962	Rename package 'com.mvc.mongo.mongo.dao'

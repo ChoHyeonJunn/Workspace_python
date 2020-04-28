@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//hello/mongo01.py=utf-8
+encoding//hello/mongo01_find.py=utf-8
+encoding//hello/mongo02_inser.py=utf-8
+encoding//hello/mongo03_update.py=utf-8
+encoding//hello/mongo04_delete.py=utf-8
+encoding//hello/mongo05_aggregation.py=utf-8

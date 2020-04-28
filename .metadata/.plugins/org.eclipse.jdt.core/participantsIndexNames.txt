@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Workspace_Python\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1953654854.index
+\SpringMVCMongo\src\main\java
+C:\Workspace_Python\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1868674172.index
+\Python05_web\src

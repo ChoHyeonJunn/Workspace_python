@@ -1,0 +1,5 @@
+# -*- coding:utf-8 -*-
+
+lst = list(range(1, 10))
+
+print('[{},{},{}]'.format(lst[4],lst[5],lst[5]))

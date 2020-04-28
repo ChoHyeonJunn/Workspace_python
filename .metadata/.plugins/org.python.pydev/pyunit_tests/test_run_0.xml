@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 0" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="C:\Workspace_Python\Python01\com\test03\mtest04_lambda.py" status="error" test="mtest04_lambda" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\chohyeonjunn\.p2\pool\plugins\org.python.pydev.core_7.5.0.202001101138\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:/Workspace_Python/Python01/com/test03\mtest04_lambda.py", line 4, in <module>
+    print(bap01)
+NameError: name 'bap01' is not defined
+ERROR: Module: mtest04_lambda could not be imported (file: C:\Workspace_Python\Python01\com\test03\mtest04_lambda.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Python01 mtest04_lambda.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

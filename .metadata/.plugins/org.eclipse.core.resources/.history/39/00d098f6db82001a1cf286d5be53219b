@@ -1,0 +1,24 @@
+# -*- coding:utf-8 -*-
+
+
+def fibo(x):
+    a, b = 0, 1
+     
+    for i in range(x):
+        print('fibo num {} = {}'.format(i, a))
+        a, b = b, a + b
+
+
+lst = list()
+
+def fibo2(num):
+    a, b = 0, 1
+
+    for i in range(num):    
+        lst.append(a)
+        a, b = b, a + b
+        
+        
+if __name__ == '__main__':
+    fibo2(10)
+    print(lst)

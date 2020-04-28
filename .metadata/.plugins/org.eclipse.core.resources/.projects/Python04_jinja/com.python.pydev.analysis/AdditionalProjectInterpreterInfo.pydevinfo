@@ -1,0 +1,21 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Workspace_Python\.metadata\.plugins\org.eclipse.core.resources\.projects\Python04_jinja\com.python.pydev.analysis\v2_indexcache
+hello.__init__|1586416615621753000|C:\Workspace_Python\Python04_jinja\hello\__init__.py
+hello.application|1586418734626293000|C:\Workspace_Python\Python04_jinja\hello\application.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=hello.application
+1=C:\Workspace_Python\Python04_jinja\hello\application.py
+-- END DICTIONARY
+-- START TREE 1
+4
+app|1|app!1^12#1*19@
+hel|1|hello!1^25#5*18@
+roo|1|root!1^16#5*18@
+tes|1|test!1^30#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

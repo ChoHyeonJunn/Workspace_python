@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>NAVER MOVIES LIST</h1>
+	{{movies}}
+	
+	<ul>
+		{% for movie in movies %}
+			<li>
+				title = [{{movie.title}}]
+				star = [{{movie.star}}]
+			</li>
+		{% endfor %}
+	</ul>
+	
+</body>
+</html>

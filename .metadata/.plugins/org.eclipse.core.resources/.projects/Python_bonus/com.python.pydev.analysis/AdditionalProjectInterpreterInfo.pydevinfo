@@ -1,0 +1,32 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Workspace_Python\.metadata\.plugins\org.eclipse.core.resources\.projects\Python_bonus\com.python.pydev.analysis\v2_indexcache
+com.__init__|1586504588283756000|C:\Workspace_Python\Python_bonus\com\__init__.py
+com.algorithm.factorial|1586513592169865000|C:\Workspace_Python\Python_bonus\com\algorithm\factorial.py
+com.algorithm.__init__|1586504588283756000|C:\Workspace_Python\Python_bonus\com\algorithm\__init__.py
+com.cloud.cloud01|1586521034245973000|C:\Workspace_Python\Python_bonus\com\cloud\cloud01.py
+com.cloud.cloud02|1586521966760029000|C:\Workspace_Python\Python_bonus\com\cloud\cloud02.py
+com.cloud.__init__|1586513770110326000|C:\Workspace_Python\Python_bonus\com\cloud\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+5=C:\Workspace_Python\Python_bonus\com\algorithm\factorial.py
+6=com.algorithm.factorial
+4=com.cloud.cloud01
+2=com.cloud.cloud02
+3=C:\Workspace_Python\Python_bonus\com\cloud\cloud01.py
+1=C:\Workspace_Python\Python_bonus\com\cloud\cloud02.py
+-- END DICTIONARY
+-- START TREE 1
+7
+clo|2|cloud!1^23#1*19@cloud!3^9#1*35@
+fac|2|factorialRecursion!5^11#5*50@factorial!5^4#5*50@
+mas|1|masking_img!1^22#1*19@
+n|1|n!5^20#5*51@
+res|3|res!1^16#1*19@res!5^21#5*51@res!3^14#1*35@
+vis|1|visual!3^19#1*35@
+web|2|webtoon!1^14#5*19@webtoon!3^12#5*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

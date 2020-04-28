@@ -1,0 +1,49 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Workspace_Python\.metadata\.plugins\org.eclipse.core.resources\.projects\Python02_crawling\com.python.pydev.analysis\v2_indexcache
+crawling.kh.__init__|1586337314590244000|C:\Workspace_Python\Python02_crawling\crawling\kh\__init__.py
+crawling.naver.movie|1586331648129773000|C:\Workspace_Python\Python02_crawling\crawling\naver\movie.py
+crawling.naver.webtoon|1586336818616276000|C:\Workspace_Python\Python02_crawling\crawling\naver\webtoon.py
+crawling.kh.teacher|1586340109606523000|C:\Workspace_Python\Python02_crawling\crawling\kh\teacher.py
+crawling.naver.__init__|1586329222908213000|C:\Workspace_Python\Python02_crawling\crawling\naver\__init__.py
+crawling.__init__|1586329222892624000|C:\Workspace_Python\Python02_crawling\crawling\__init__.py
+crawling.insta.__init__|1586334795963608000|C:\Workspace_Python\Python02_crawling\crawling\insta\__init__.py
+crawling.insta.insta02|1586336692686162000|C:\Workspace_Python\Python02_crawling\crawling\insta\insta02.py
+crawling.insta.insta01|1586335907248693000|C:\Workspace_Python\Python02_crawling\crawling\insta\insta01.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+10=crawling.naver.movie
+9=C:\Workspace_Python\Python02_crawling\crawling\naver\movie.py
+3=C:\Workspace_Python\Python02_crawling\crawling\naver\webtoon.py
+4=crawling.naver.webtoon
+8=crawling.kh.teacher
+5=C:\Workspace_Python\Python02_crawling\crawling\insta\insta01.py
+1=C:\Workspace_Python\Python02_crawling\crawling\insta\insta02.py
+2=crawling.insta.insta02
+6=crawling.insta.insta01
+7=C:\Workspace_Python\Python02_crawling\crawling\kh\teacher.py
+-- END DICTIONARY
+-- START TREE 1
+17
+div|1|div!1^17#1*19@
+dl|1|dl!3^31#1*35@
+dri|1|driver!1^11#1*19@
+img|2|img!5^16#1*51@img!7^16#5*67@
+int|1|intro_name!7^17#5*67@
+lis|1|list!7^13#1*67@
+lst|1|lst!3^33#1*35@
+mov|1|movies!9^15#1*83@
+res|6|resp!3^13#1*35@resp!5^13#1*51@res!3^46#1*35@resp!9^10#1*83@resp!7^9#1*67@res_json!3^49#1*35@
+sou|5|soup!1^16#1*19@soup!3^14#1*35@soup!5^14#1*51@soup!7^10#1*67@soup!9^11#1*83@
+sta|2|star!3^37#5*35@star!9^20#5*83@
+tag|2|tag!5^10#1*51@tag!1^7#1*19@
+tea|1|teacher!7^12#1*67@
+tem|1|temp!3^39#5*35@
+tit|2|title!3^36#5*35@title!9^19#5*83@
+url|2|url!5^11#1*51@url!1^8#1*19@
+web|1|webtoon_list!3^16#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

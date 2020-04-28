@@ -1,0 +1,7 @@
+# -*- coding:utf-8 -*-
+
+lst = list(range(1, 10))
+
+print('[{},{},{}]'.format(lst[4],lst[5],lst[5]))
+for i in {},{},{}range(4, 7):
+    print(lst[i])

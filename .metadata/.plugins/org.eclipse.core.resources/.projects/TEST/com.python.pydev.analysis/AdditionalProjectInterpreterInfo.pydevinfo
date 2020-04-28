@@ -1,0 +1,24 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Workspace_Python\.metadata\.plugins\org.eclipse.core.resources\.projects\TEST\com.python.pydev.analysis\v2_indexcache
+test.test02|1587369368348834000|C:\Workspace_Python\TEST\test\test02.py
+test.test01|1587366279402898000|C:\Workspace_Python\TEST\test\test01.py
+test.__init__|1587364682674450000|C:\Workspace_Python\TEST\test\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+3=C:\Workspace_Python\TEST\test\test01.py
+1=C:\Workspace_Python\TEST\test\test02.py
+2=test.test02
+4=test.test01
+-- END DICTIONARY
+-- START TREE 1
+4
+fib|2|fibo1!1^4#5*18@fibo2!1^15#5*18@
+lst|2|lst!3^4#1*35@lst!1^12#1*19@
+mys|1|mysum!3^31#1*35@
+res|1|result!3^12#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

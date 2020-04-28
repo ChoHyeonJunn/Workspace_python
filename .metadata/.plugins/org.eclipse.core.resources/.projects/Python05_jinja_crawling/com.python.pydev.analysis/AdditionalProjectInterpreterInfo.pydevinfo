@@ -1,0 +1,20 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Workspace_Python\.metadata\.plugins\org.eclipse.core.resources\.projects\Python05_jinja_crawling\com.python.pydev.analysis\v2_indexcache
+naver.__init__|1586419060343231000|C:\Workspace_Python\Python05_jinja_crawling\naver\__init__.py
+naver.app|1586423897963900000|C:\Workspace_Python\Python05_jinja_crawling\naver\app.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Workspace_Python\Python05_jinja_crawling\naver\app.py
+2=naver.app
+-- END DICTIONARY
+-- START TREE 1
+3
+app|1|app!1^26#1*19@
+cra|1|crawling!1^36#5*18@
+roo|1|root!1^31#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

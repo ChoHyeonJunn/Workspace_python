@@ -1,0 +1,12 @@
+# -*- coding:utf-8 -*-
+
+a, b = 0, 1
+
+num = int(input('fibo : '))
+
+
+
+def fibo(x):
+    for i in range(num):
+    print('fibo num {} = {}'.format(i, a))
+    a, b = b, a + b

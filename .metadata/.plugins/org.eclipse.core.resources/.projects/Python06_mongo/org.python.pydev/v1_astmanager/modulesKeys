@@ -1,0 +1,8 @@
+MODULES_MANAGER_V2
+hello.__init__|C:\Workspace_Python\Python06_mongo\hello\__init__.py
+hello.mongo01|C:\Workspace_Python\Python06_mongo\hello\mongo01.py
+hello.mongo01_find|C:\Workspace_Python\Python06_mongo\hello\mongo01_find.py
+hello.mongo02_inser|C:\Workspace_Python\Python06_mongo\hello\mongo02_inser.py
+hello.mongo03_update|C:\Workspace_Python\Python06_mongo\hello\mongo03_update.py
+hello.mongo04_delete|C:\Workspace_Python\Python06_mongo\hello\mongo04_delete.py
+hello.mongo05_aggregation|C:\Workspace_Python\Python06_mongo\hello\mongo05_aggregation.py
